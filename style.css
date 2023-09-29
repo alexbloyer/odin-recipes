@@ -2,3 +2,32 @@ body {
     font-family: Verdana, Tahoma, sans-serif;
 }
 
+.title {
+    background-color: rgb(228, 207, 72);
+    color: rgb(62, 50, 7);
+    text-align: center;
+    font-family: Papyrus;
+    font-weight: bolder;
+}
+
+#tacos {
+    background-color: rgb(71, 192, 23);
+    color: rgb(103, 47, 13);
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.description {
+    background-color: rgb(244, 139, 139);
+}
+
+.ingredients {
+    background-color: rgb(191, 240, 126);
+}
+
+.steps {
+    background-color: rgb(117, 184, 235);
+}
