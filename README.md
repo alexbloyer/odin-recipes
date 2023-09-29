@@ -1,2 +1,2 @@
 # odin-recipes
-# This is a project to create a basic website for recipes that I enjoy making
+This is a project to create a basic website for recipes that I enjoy making. It currently includes a peanut butter and jelly sandwich recipe, a pasta with meat sauce recipe, and a carne asada tacos recipe. I hope to continue to build this website into a rich encyclopedia of my favorite meals and dishes.
