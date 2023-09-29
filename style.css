@@ -10,11 +10,6 @@ body {
     font-weight: bolder;
 }
 
-#tacos {
-    background-color: rgb(71, 192, 23);
-    color: rgb(103, 47, 13);
-}
-
 img {
     width: 600px;
     height: auto;
