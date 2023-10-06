@@ -11,8 +11,18 @@ body {
 }
 
 img {
-    width: 600px;
+    width: 500px;
     height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(228, 207, 72);
+}
+
+.fp-recipe {
+    display: block;
+    background-color: blanchedalmond;
+    margin: 10px;
 }
 
 .description {
